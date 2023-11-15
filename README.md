@@ -1,4 +1,6 @@
-# Linear-regression for water temperature
-Este proyecto calcula la temperatura de una zona del mar mediante predicciones y entreno de la máquina.
+## Linear-regression for water temperature
 
-Recoge información de lugares del mundo y temperaturas del agua en distintos momentos de días distintos y profundidades. A partir de ahí, en un programa en Python se realiza un cálculo de la futura temperatura.
+Este código en Python realiza una predicción de temperaturas utilizando un modelo de regresión lineal múltiple. Aquí tienes una descripción de los principales elementos del código y cómo funciona:
+
+## Descripción General
+El script utiliza datos históricos de temperatura y otras variables meteorológicas para entrenar un modelo de regresión lineal múltiple. Luego, se prueba el modelo en un conjunto de datos de prueba para evaluar su precisión.
